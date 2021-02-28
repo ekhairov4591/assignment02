@@ -21,5 +21,15 @@ All of it is done with Maven Google Jib plugin.
 
 First couple of builds failed because I had to make a pull request and merge new `.circleci/config.yml` directory with my repo.
 
+### How to Run (considering installed Docker Desktop App)
+
+In order to run an app from a Docker container you just need to do the following in your CMD:
+```docker run -d -p 80:80 docker/getting-started```
+
+Replace ```docker/getting-started``` with ```dockerUserId/DockerRepoName```.
+
+#### Example
+```docker run -d -p 80:80 ekhairov4591/assignment02```
+
 
 # End
