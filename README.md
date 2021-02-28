@@ -19,7 +19,7 @@ I have also specified Docker image directory with ```-Dimage```.
 All of it is done with Maven Google Jib plugin.
 
 
-First couple of builds failed because I had to make a pull request and merge new `.circleci/config.yml` directory.
+First couple of builds failed because I had to make a pull request and merge new `.circleci/config.yml` directory with my repo.
 
 
 # End
