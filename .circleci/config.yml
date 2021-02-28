@@ -8,8 +8,6 @@ jobs:
     steps:
       - checkout # git pull
 
-      - run: mvn dependency:go-offline
-
       # package into a jar
       - run: mvn clean package
 
