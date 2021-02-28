@@ -4,6 +4,7 @@ Assignment 2
 # Explanation
 
 I have used a template "Hello World" Spring Boot Application as a project since assignment is about deployment and automation.
+I've initialized spring boot app at https://start.spring.io
 
 I have configured pom.xml to add dependencies as following `jib-maven-plugin'
 Then I've added `.circleci/config.yml` file thorugh CircleCi web-app in since I was having issues with adding it manually.
