@@ -1,7 +1,7 @@
 # assignment02
 Assignment 2
 
-#Explanation
+# Explanation
 
 I have used a template "Hello World" Spring Boot Application as a project since assignment is about deployment and automation.
 
